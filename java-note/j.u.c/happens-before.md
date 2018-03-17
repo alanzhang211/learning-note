@@ -81,7 +81,7 @@ class Foo {
                 }
             }
         }
-        return localRef;
+        return helper;
     }
 
     // other functions and members...
@@ -108,7 +108,7 @@ class Foo {
     // other functions and members
 }
 ```
-> wiki里说这样有25%的性能提升（在这里，没有跑数据，依据《effective java》第71条：慎用延迟加载中说到）
+> wiki里说这样有25%的性能提升（在这里，没有跑数据，依据《effective java》中文 第二版 第71条：慎用延迟加载中说到）
 
 ![](https://github.com/alanzhang211/learning-note/raw/master/img/effective-Java-dcl.png)
 
