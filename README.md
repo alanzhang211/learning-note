@@ -9,6 +9,7 @@
 + [Java内存模型](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)
 + [volatile关键字](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/volatile%E5%85%B3%E9%94%AE%E5%AD%97.md)
 + [synchronized关键字](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/synchronized.md)
++ [happens-before](https://github.com/alanzhang211/learning-note/edit/master/java-note/j.u.c/happens-before.md)
 
 ---
 个人公众号，欢迎交流！
