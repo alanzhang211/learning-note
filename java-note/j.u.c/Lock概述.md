@@ -1,5 +1,5 @@
 # 介绍
-Lock是JDK1.5 之后新增的用来实现锁功能。同java内置锁synchronized一样，实现锁的同能。
+Lock是JDK1.5 之后新增的用来实现锁功能（同java内置锁synchronized一样，实现锁的功能，但比synchronized更加灵活）
 
 ## 结构
 ![类图](https://github.com/alanzhang211/learning-note/raw/master/img/Lock.png)
@@ -119,8 +119,7 @@ ReentrantLock里面大部分的功能都是委托给Sync来实现的，同时Syn
 
 
 #### ReentrantReadWriteLock
-一对锁，一个读锁，一个写锁。
-
+读写锁，一对锁，一个读锁，一个写锁。
 
 > 1. 支持公平和非公平的方式获取锁；吞吐量非公平优于公平。
 > 2. 重入性：读锁获取后可以再次获取读锁；写锁获取后，可以再次后去写锁，同时也可以获取读锁。
