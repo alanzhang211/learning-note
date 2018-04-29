@@ -13,6 +13,7 @@
 + [happens-before](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/happens-before.md)
 + [原子变量](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/%E5%8E%9F%E5%AD%90%E5%8F%98%E9%87%8F.md)
 + [Lock概述](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/Lock%E6%A6%82%E8%BF%B0.md)
++ [AQS](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/AQS.md)
 
 
 ## 开源系列
