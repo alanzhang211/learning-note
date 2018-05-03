@@ -72,7 +72,7 @@ final boolean nonfairTryAcquire(int acquires) {
     }
 ```
 
-### 公平锁释放
+### 非公平锁释放
 ```
 protected final boolean tryRelease(int releases) {
     int c = getState() - releases;
