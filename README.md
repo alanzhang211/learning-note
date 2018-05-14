@@ -18,6 +18,7 @@
 + [ReentrantReadWriteLock](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/ReentrantReadWriteLock.md)
 + [CountDownLatch](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/CountDownLatch.md)
 + [CyclicBarrier](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/CyclicBarrier.md)
++ [Semaphore](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/Semaphore.md)
 
 ## 开源系列
 ### 数据开发相关
