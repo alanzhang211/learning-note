@@ -4,7 +4,7 @@ Exchanger提供了一个同步点，在这个同步点，两个线程可以交�
 当线程A调用Exchanger对象的exchange()方法后，他会陷入阻塞状态，直到线程B也调用了exchange()方法，然后以线程安全的方式交换数据，之后线程A和B继续运行。
 
 # 源码分析
-![类图](https://github.com/alanzhang211/learning-note/blob/master/img/(https://github.com/alanzhang211/learning-note/blob/master/img/slotExchanger.jpg))
+![类图](https://github.com/alanzhang211/learning-note/raw/master/img/exchanger-class.png)
 
 ## 核心变量
 ```
