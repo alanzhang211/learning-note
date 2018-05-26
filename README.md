@@ -22,6 +22,7 @@
 + [Exchanger](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/Exchanger.md)
 + [阻塞队列BlockingQueue](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/Exchanger.md)
 + [ArrayBlockingQueue](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/ArrayBlockingQueue.md)
++ [LinkedBlockingQueue](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/LinkedBlockingQueue.md)
 
 ## 开源系列
 ### 数据开发相关
