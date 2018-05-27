@@ -9,7 +9,7 @@ Leader/Followers模式是多个工作线程轮流获得事件源集合，轮流�
 ![Leader/Followers](https://github.com/alanzhang211/learning-note/raw/master/img/Leader-Followers.jpg)
 
 1. 线程有3种状态：领导leading，处理processing，追随following
-2. 假设共N个线程，其中只有1个leading线程（等待任务），x个processing线程（处理），余下有N-1-x个following线程（空闲）
+2. 假设共N个线程，其中只有1个leading线程（等待任务），n个processing线程（处理），余下有N-1-n个following线程（空闲）
 3. 有一把锁，谁抢到就是leading，它的任务是等待新任务。
 4. 事件/任务来到时，leading线程会对其进行处理，从而转化为processing状态，处理完成之后，又转变为following
 5. 丢失leading后，following会尝试抢锁，抢到则变为leading，否则保持following
