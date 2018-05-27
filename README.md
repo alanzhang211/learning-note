@@ -24,6 +24,7 @@
 + [ArrayBlockingQueue](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/ArrayBlockingQueue.md)
 + [LinkedBlockingQueue](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/LinkedBlockingQueue.md)
 + [PriorityBlockingQueue](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/PriorityBlockingQueue.md)
++ [DelayQueue](https://github.com/alanzhang211/learning-note/blob/master/java-note/j.u.c/DelayQueue.md)
 
 ## 开源系列
 ### 数据开发相关
