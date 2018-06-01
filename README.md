@@ -34,6 +34,8 @@
 ## 数据库
 + [数据库开发规范](https://github.com/alanzhang211/learning-note/blob/master/db/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A7%84%E8%8C%83.md#%E5%9F%BA%E7%A1%80%E8%A7%84%E8%8C%83)
 + [一分钟了解数据库扩展](https://github.com/alanzhang211/learning-note/blob/master/db/%E4%B8%80%E5%88%86%E9%92%9F%E4%BA%86%E8%A7%A3%E6%95%B0%E6%8D%AE%E5%BA%93%E6%89%A9%E5%B1%95.md)
++ [漫谈数据库扩展-跨库join查询问题](https://github.com/alanzhang211/learning-note/blob/master/db/%E6%BC%AB%E8%B0%88%E6%95%B0%E6%8D%AE%E5%BA%93%E6%89%A9%E5%B1%95-%E8%B7%A8%E5%BA%93join%E6%9F%A5%E8%AF%A2%E9%97%AE%E9%A2%98.md)
+
 
 
 ---
