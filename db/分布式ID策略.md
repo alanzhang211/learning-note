@@ -50,7 +50,7 @@
 
 ## snowflake方案
 是一种以划分命名空间来划分的算法。这种方案把64-bit分别划分成多段，分开来标示机器、时间等，比如在snowflake中的64-bit分别表示如下图：
-![snowflake](https://github.com/alanzhang211/learning-note/raw/master/img/db/snowflakepng)
+![snowflake](https://github.com/alanzhang211/learning-note/raw/master/img/db/snowflake.png)
 
 > 上面提到的UUID也可以认为是这种思路。
 
