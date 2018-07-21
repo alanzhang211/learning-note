@@ -39,6 +39,8 @@
 + [漫谈数据库扩展-跨库分页](https://github.com/alanzhang211/learning-note/blob/master/db/%E8%B7%A8%E5%BA%93%E5%88%86%E9%A1%B5.md)
 + [漫谈数据库扩展-跨分布式ID策略](https://github.com/alanzhang211/learning-note/blob/master/db/%E5%88%86%E5%B8%83%E5%BC%8FID%E7%AD%96%E7%95%A5.md)
 
+### MySql
++ [MySql索引概述](https://github.com/alanzhang211/learning-note/blob/master/db/MySql%E7%B4%A2%E5%BC%95%E6%A6%82%E8%BF%B0.md)
 
 ---
 个人公众号，欢迎交流！
