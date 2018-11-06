@@ -46,4 +46,4 @@
 ---
 个人公众号，欢迎交流！
 
-![个人公众号](http://of7369y0i.bkt.clouddn.com/qrcode_for_gh_381787324660_430.jpg)
+![个人公众号](https://github.com/alanzhang211/blog-image/raw/master/qrcode_for_gh_381787324660_430.jpg)
